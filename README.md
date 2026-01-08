@@ -1,4 +1,4 @@
-# bobbaplanet - Pl
+# Bobbaplanet - 
 
  **Bienvenido/a a Bobbaplanet**, una pagina web creada con **HTML, CSS y JavaScript puro**. 
 <p align="center">
@@ -26,7 +26,7 @@ Diseño responsivo y adaptable para dispositivos móviles
 ##  **Estructura del Proyecto**
 
 ```bash
- foodfast/
+ Bobbaplanet/
  ┣  images/         # Recursos de imágenes
  ┣  css/            # Estilos CSS
  ┣  js/             # Scripts JavaScript
